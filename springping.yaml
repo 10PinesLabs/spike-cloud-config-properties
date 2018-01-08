@@ -4,5 +4,5 @@ spring:
 
 webapp:
   parameters:
-    value1: value 1 from github
-    value2: value 2 from github
+    value1: value 1 from tapias
+    value2: value 2 from tapias
