@@ -5,4 +5,4 @@ spring:
 webapp:
   parameters:
     value1: value 1 from github today
-    value2: value 2 from github Rosario
+    value2: value 2 from github refresh!
