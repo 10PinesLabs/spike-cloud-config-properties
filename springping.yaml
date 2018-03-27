@@ -5,4 +5,4 @@ spring:
 webapp:
   parameters:
     value1: value 1 from a local dir mapped to git
-    value2: hey!
+    value2: hey, configuration updated in repo!
